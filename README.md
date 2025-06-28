@@ -5,14 +5,14 @@ This repository contains a Jupyter Notebook (`Encode.ipynb`) that demonstrates v
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Encoding Techniques Demonstrated](https://www.google.com/search?q=%23encoding-techniques-demonstrated)
-      - [LabelEncoder](https://www.google.com/search?q=%23labelencoder)
-      - [OrdinalEncoder](https://www.google.com/search?q=%23ordinalencoder)
-      - [OneHotEncoder](https://www.google.com/search?q=%23onehotencoder)
-      - [Mapping (Manual Encoding)](https://www.google.com/search?q=%23mapping-manual-encoding)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-  - [Libraries Used](https://www.google.com/search?q=%23libraries-used)
+  - [Project Overview](https://github.com/nouninasion/Encoder/blob/main/README.md#project-overview)
+  - [Encoding Techniques Demonstrated](https://github.com/nouninasion/Encoder/blob/main/README.md#encoding-techniques-demonstrated)
+      - [LabelEncoder](https://github.com/nouninasion/Encoder/blob/main/README.md#labelencoder)
+      - [OrdinalEncoder](https://github.com/nouninasion/Encoder/blob/main/README.md#ordinalencoder)
+      - [OneHotEncoder](https://github.com/nouninasion/Encoder/blob/main/README.md#onehotencoder)
+      - [Mapping (Manual Encoding)](https://github.com/nouninasion/Encoder/blob/main/README.md#mapping-manual-encoding)
+  - [Getting Started](https://github.com/nouninasion/Encoder/blob/main/README.md#getting-started)
+  - [Libraries Used](https://github.com/nouninasion/Encoder/blob/main/README.md#libraries-used)
 
 ## Project Overview
 
